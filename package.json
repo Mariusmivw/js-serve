@@ -1,0 +1,9 @@
+{
+  "name": "js-serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Mariusmivw",
+  "license": "ISC",
+  "dependencies": {}
+}
