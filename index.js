@@ -18,6 +18,6 @@ function serve({ path, file, headers }, server) {
     }
   });
 }
+serve.serve = serve;
 
 module.exports = serve;
-module.exports = { serve };
